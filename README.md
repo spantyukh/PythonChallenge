@@ -19,6 +19,7 @@
 <h2>Репозиторий челленджа:</h2>
 
 Ссылка для форка: https://github.com/kensay98/PythonChallenge
+
 Guide (Пока внешний ресурс): https://goo.gl/8iJA4C
 
 
