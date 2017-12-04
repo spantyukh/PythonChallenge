@@ -1,1 +1,1 @@
-print((int(input('Enter number:'))) % 3 == 0)
+print((float(input('Enter number:'))) % 3 == 0)
